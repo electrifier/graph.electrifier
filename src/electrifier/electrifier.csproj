@@ -47,14 +47,14 @@
 		<PackageReference Include="CommunityToolkit.WinUI.UI.Animations" Version="7.1.2" />
 		<PackageReference Include="CommunityToolkit.WinUI.UI.Controls" Version="7.1.2" />
 		<PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.1" />
-		<PackageReference Include="Microsoft.Graph" Version="5.1.0" />
-		<PackageReference Include="Microsoft.Identity.Client" Version="4.50.0" />
+		<PackageReference Include="Microsoft.Graph" Version="5.2.0" />
+		<PackageReference Include="Microsoft.Identity.Client" Version="4.51.0" />
 		<PackageReference Include="Microsoft.Identity.Client.Extensions.Msal" Version="2.26.0" />
 		<PackageReference Include="Microsoft.Web.WebView2" Version="1.0.1587.40">
 		  <Aliases>webview2</Aliases>
 		</PackageReference>
 		<PackageReference Include="Microsoft.Web.WebView2.DevToolsProtocolExtension" Version="1.0.824" />
-		<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.2.230217.4" />
+		<PackageReference Include="Microsoft.WindowsAppSDK" Version="1.2.230313.1" />
 		<PackageReference Include="Microsoft.Xaml.Behaviors.WinUI.Managed" Version="2.0.9" />
 		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
 		<PackageReference Include="WinUIEx" Version="2.1.0" />
